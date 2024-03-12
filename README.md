@@ -8,3 +8,5 @@ the queen on this square should be removed instead. Furthermore, the user receiv
 the current game status by means of the background color and about the last action performed by means of a
 message field. The following illustration shows what the application could look like:
 
+![alt text](https://github.com/classDana/Queens-problem/blob/main/output_results/incomplete_state.png)
+![alt text](https://github.com/classDana/Queens-problem/blob/main/output_results/complete_state.png)
